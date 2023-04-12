@@ -17,3 +17,13 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 1. Install Jupyter Notebook by following the instructions on the [official Jupyter website](https://jupyter.org/install).
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
+## Contents
+1. **Winter is Coming. Let's load the dataset ASAP!:** Load in and inspect the edge list of the first book.
+2. **Time for some Network of Thrones:** Create a graph object for the first book.
+3. **Populate the network with the DataFrame:** Add nodes and edges information to the network for book 1.
+4. **The most important character in Game of Thrones:** Find the most important characters according to degree centrality.
+5. **The evolution of character importance:** Plot the evolution of degree centrality over the books for some of the characters.
+6. **What's up with Stannis Baratheon?:** Find the importance and evolution of characters according to betweenness centrality.
+7. **What does Google PageRank tell us about GoT?:** Find the importance and evolution of characters according to PageRank.
+8. **Correlation between different measures:** Find the correlation between the three methods of measuring importance.
+9. **Conclusion:** Find the most important character in the fifth book according to degree centrality, betweenness centrality, and PageRank.
